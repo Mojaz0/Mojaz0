@@ -1,5 +1,5 @@
-Hi. 👋😺
+Hi. This is my first repository. 👋😺
 
 ...
 
-[I don't know what to write here TwT]
+[Nothing here, really. I'm just testing]
